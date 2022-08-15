@@ -9,7 +9,8 @@ Before developing a big and complex web application, we will build the front end
   5. No data loaded from anything
 
 # The aim of this project is to learn how to manipulate HTML and CSS languages. 
-  HTML is the structure of your page, it should be the first thing to write. 
+  HTML is the structure of your page, it should be the first thing to write.
+  
   CSS is the styling of your page, the design. 
 
 # General Objectives:
